@@ -1,3 +1,6 @@
+# huge data files
+state_AZ-CA.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# State_az-ca
+.state_AZ-CA.gitignore
