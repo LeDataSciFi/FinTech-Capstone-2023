@@ -8,6 +8,7 @@ CA.df$hisp_rate <- (CA.df$HispanicLatinoPop / CA.df$Tot.Pop) * 100
 CA.df$hisp_over_med <- CA.df$hisp_rate > median(CA.df$hisp_rate, na.rm = TRUE)
 CA.df$log_num_apps <- log(CA.df$num_applications)
 
+CA.df$which_bank
 
 # Building the initial models
 # Fit the linear regression models
