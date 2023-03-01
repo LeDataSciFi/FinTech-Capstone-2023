@@ -1,7 +1,7 @@
 # huge data files
 state_AZ-CA.csv
 census_token.txt
-state_AZ-CA_clean
+state_AZ-CA_clean.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
