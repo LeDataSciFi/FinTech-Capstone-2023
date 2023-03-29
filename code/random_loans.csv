@@ -1,31 +1,31 @@
 derived_loan_product_type,derived_dwelling_category,total_units,loan_purpose,loan_amount,loan_to_value_ratio,lien_status,loan_term,property_value,occupancy_type,income,debt_to_income_ratio
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,2.0,Refinancing,665000.0,56.77,Secured by a first lien,360.0,1175000.0,Investment Property,137.0,36
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,195000.0,97.0,Secured by a first lien,360.0,205000.0,Principal residence,44.0,47
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,775000.0,80.0,Secured by a first lien,360.0,965000.0,Principal residence,270.0,41
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,195000.0,44.266,Secured by a first lien,120.0,435000.0,Principal residence,174.0,30%-<36%
-Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,5000.0,102.91,Secured by a subordinate lien,360.0,325000.0,Principal residence,110.0,30%-<36%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,335000.0,67.058,Secured by a first lien,360.0,505000.0,Investment Property,279.0,38
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,375000.0,80.0,Secured by a first lien,360.0,465000.0,Second residence,159.0,30%-<36%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,545000.0,59.592,Secured by a first lien,360.0,925000.0,Principal residence,189.0,30%-<36%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,105000.0,,Secured by a first lien,,,Principal residence,86.0,
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,2005000.0,42.553,Secured by a first lien,360.0,4705000.0,Principal residence,528.0,20%-<30%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,455000.0,59.52,Secured by a first lien,360.0,765000.0,Principal residence,112.0,45
-FHA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,155000.0,39.79,Secured by a first lien,180.0,385000.0,Principal residence,62.0,50%-60%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,475000.0,73.308,Secured by a first lien,360.0,655000.0,Principal residence,164.0,30%-<36%
-VA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,565000.0,100.0,Secured by a first lien,360.0,565000.0,Principal residence,111.0,50%-60%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,205000.0,59.884,Secured by a first lien,360.0,345000.0,Principal residence,95.0,47
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,545000.0,92.0,Secured by a first lien,360.0,595000.0,Principal residence,120.0,41
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,575000.0,57.415,Secured by a first lien,360.0,995000.0,Principal residence,107.0,36
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,315000.0,40.52,Secured by a first lien,360.0,775000.0,Principal residence,142.0,20%-<30%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,285000.0,67.18,Secured by a first lien,360.0,425000.0,Principal residence,72.0,48
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,205000.0,45.5,Secured by a first lien,360.0,435000.0,Principal residence,90.0,40
-VA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,255000.0,,Secured by a first lien,360.0,,Principal residence,,
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,1005000.0,33.33,Secured by a first lien,360.0,3005000.0,Principal residence,153.0,41
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Other purpose,105000.0,24.39,Secured by a first lien,360.0,415000.0,Principal residence,247.0,<20%
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,105000.0,80.0,Secured by a first lien,360.0,135000.0,Principal residence,41.0,42
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,335000.0,60.0,Secured by a first lien,360.0,565000.0,Second residence,132.0,48
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,395000.0,55.0,Secured by a first lien,360.0,735000.0,Principal residence,76.0,48
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,185000.0,75.0,Secured by a first lien,360.0,245000.0,Investment Property,15.0,
-Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1.0,Home improvement,285000.0,61.185,Secured by a subordinate lien,480.0,1305000.0,Principal residence,138.0,49
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,315000.0,75.0,Secured by a first lien,360.0,415000.0,Principal residence,92.0,40
-Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,255000.0,55.556,Secured by a first lien,360.0,455000.0,Principal residence,139.0,20%-<30%
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,355000.0,69.0,Secured by a first lien,360.0,515000.0,Principal residence,55.0,48
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,505000.0,62.95,Secured by a first lien,360.0,795000.0,Principal residence,140.0,30%-<36%
+FHA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,765000.0,73.05,Secured by a first lien,360.0,1035000.0,Principal residence,290.0,20%-<30%
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,335000.0,59.12,Secured by a first lien,360.0,575000.0,Investment Property,139.0,20%-<30%
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,385000.0,40.74,Secured by a first lien,360.0,955000.0,Principal residence,100.0,30%-<36%
+Conventional:First Lien,Multifamily:Site-Built,5.24,Home purchase,445000.0,,Secured by a first lien,1.0,1605000.0,Investment Property,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,295000.0,80.0,Secured by a first lien,372.0,375000.0,Principal residence,138.0,37
+FSA/RHS:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,225000.0,103.45,Secured by a first lien,360.0,215000.0,Principal residence,74.0,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,585000.0,70.0,Secured by a first lien,1.0,845000.0,Principal residence,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Other purpose,15000.0,4.27,Secured by a first lien,300.0,355000.0,Principal residence,33.0,30%-<36%
+Conventional:First Lien,Multifamily:Site-Built,5.24,Home purchase,1255000.0,70.0,Secured by a first lien,180.0,1795000.0,Investment Property,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,2.0,Refinancing,245000.0,33.75,Secured by a first lien,180.0,735000.0,Principal residence,138.0,36
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,915000.0,60.707,Secured by a first lien,360.0,1515000.0,Principal residence,240.0,30%-<36%
+Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1.0,Other purpose,255000.0,53.984,Secured by a subordinate lien,1.0,1905000.0,Principal residence,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,395000.0,50.0,Secured by a first lien,1.0,785000.0,Investment Property,,
+VA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,665000.0,100.74,Secured by a first lien,360.0,655000.0,Principal residence,,
+VA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,325000.0,78.62,Secured by a first lien,360.0,405000.0,Principal residence,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,285000.0,70.0,Secured by a first lien,1.0,415000.0,Principal residence,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,495000.0,34.295,Secured by a first lien,360.0,1425000.0,Principal residence,71.0,>60%
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Home purchase,735000.0,69.923,Secured by a first lien,1.0,1045000.0,Principal residence,,
+VA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,845000.0,65.34,Secured by a first lien,360.0,1295000.0,Principal residence,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,575000.0,65.26,Secured by a first lien,348.0,875000.0,Principal residence,88.0,47
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,345000.0,77.14,Secured by a first lien,360.0,605000.0,Principal residence,95.0,50%-60%
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,275000.0,69.72,Secured by a first lien,360.0,385000.0,Principal residence,149.0,37
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,1475000.0,73.75,Secured by a first lien,378.0,2005000.0,Principal residence,260.0,42
+Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1.0,Other purpose,25000.0,79.98,Secured by a subordinate lien,300.0,285000.0,Principal residence,,
+Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1.0,Cash-out refinancing,215000.0,71.62,Secured by a subordinate lien,6.0,1805000.0,Investment Property,,
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,415000.0,61.05,Secured by a first lien,360.0,685000.0,Principal residence,130.0,20%-<30%
+Conventional:First Lien,Multifamily:Site-Built,5.24,Home purchase,4445000.0,,Secured by a first lien,1.0,6355000.0,Investment Property,,
+VA:First Lien,Single Family (1-4 Units):Site-Built,1.0,Refinancing,445000.0,68.76,Secured by a first lien,360.0,655000.0,Principal residence,,
