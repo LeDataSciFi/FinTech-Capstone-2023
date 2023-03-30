@@ -1,0 +1,31 @@
+derived_loan_product_type,derived_dwelling_category,total_units,loan_purpose,loan_amount,loan_to_value_ratio,lien_status,loan_term,property_value,occupancy_type,income,debt_to_income_ratio,Race
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,355000,69,Secured by a first lien,360,515000,Principal residence,55,48,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Cash-out refinancing,505000,62.95,Secured by a first lien,360,795000,Principal residence,140,30%-<36%,Black
+FHA:First Lien,Single Family (1-4 Units):Site-Built,1,Cash-out refinancing,765000,73.05,Secured by a first lien,360,1035000,Principal residence,290,20%-<30%,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,335000,59.12,Secured by a first lien,360,575000,Investment Property,139,20%-<30%,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,385000,40.74,Secured by a first lien,360,955000,Principal residence,100,30%-<36%,Black
+Conventional:First Lien,Multifamily:Site-Built,5.24,Home purchase,445000,,Secured by a first lien,1,1605000,Investment Property,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Home purchase,295000,80,Secured by a first lien,372,375000,Principal residence,138,37,Black
+FSA/RHS:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,225000,103.45,Secured by a first lien,360,215000,Principal residence,74,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Home purchase,585000,70,Secured by a first lien,1,845000,Principal residence,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Other purpose,15000,4.27,Secured by a first lien,300,355000,Principal residence,33,30%-<36%,Black
+Conventional:First Lien,Multifamily:Site-Built,5.24,Home purchase,1255000,70,Secured by a first lien,180,1795000,Investment Property,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,2,Refinancing,245000,33.75,Secured by a first lien,180,735000,Principal residence,138,36,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,915000,60.707,Secured by a first lien,360,1515000,Principal residence,240,30%-<36%,Black
+Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1,Other purpose,255000,53.984,Secured by a subordinate lien,1,1905000,Principal residence,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Home purchase,395000,50,Secured by a first lien,1,785000,Investment Property,,,Black
+VA:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,665000,100.74,Secured by a first lien,360,655000,Principal residence,,,Black
+VA:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,325000,78.62,Secured by a first lien,360,405000,Principal residence,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Home purchase,285000,70,Secured by a first lien,1,415000,Principal residence,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,495000,34.295,Secured by a first lien,360,1425000,Principal residence,71,>60%,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Home purchase,735000,69.923,Secured by a first lien,1,1045000,Principal residence,,,Black
+VA:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,845000,65.34,Secured by a first lien,360,1295000,Principal residence,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,575000,65.26,Secured by a first lien,348,875000,Principal residence,88,47,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Cash-out refinancing,345000,77.14,Secured by a first lien,360,605000,Principal residence,95,50%-60%,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,275000,69.72,Secured by a first lien,360,385000,Principal residence,149,37,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Cash-out refinancing,1475000,73.75,Secured by a first lien,378,2005000,Principal residence,260,42,Black
+Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1,Other purpose,25000,79.98,Secured by a subordinate lien,300,285000,Principal residence,,,Black
+Conventional:Subordinate Lien,Single Family (1-4 Units):Site-Built,1,Cash-out refinancing,215000,71.62,Secured by a subordinate lien,6,1805000,Investment Property,,,Black
+Conventional:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,415000,61.05,Secured by a first lien,360,685000,Principal residence,130,20%-<30%,Black
+Conventional:First Lien,Multifamily:Site-Built,5.24,Home purchase,4445000,,Secured by a first lien,1,6355000,Investment Property,,,Black
+VA:First Lien,Single Family (1-4 Units):Site-Built,1,Refinancing,445000,68.76,Secured by a first lien,360,655000,Principal residence,,,Black
