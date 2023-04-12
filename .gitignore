@@ -1,4 +1,6 @@
 gpt_api.txt
+.DS_Store
+**state_AZ-CA_clean.csv
 
 # huge data files
 state_AZ-CA.csv
