@@ -1,0 +1,15 @@
+# Viewing these files
+
+- [BOW_below_p10_income.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_below_p10_income.html)
+- [BOW_denial_rate.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_denial_rate.html)
+- [BOW_high_asian.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_high_asian.html)
+- [BOW_high_black.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_high_black.html)
+- [BOW_high_hispanic.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_high_hispanic.html)
+- [BOW_high_white.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_high_white.html)
+- [BOW_log(dol_loans).html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_log%28dol_loans%29.html)
+- [BOW_log(numloans).html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_log%28numloans%29.html)
+- [BOW_majority-minority.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_majority-minority.html)
+- [BOW_mean_approved_rate_spread.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_mean_approved_rate_spread.html)
+- [BOW_mean_LTV.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_mean_LTV.html)
+- [BOW_white_rate.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/BOW_white_rate.html)
+- [denial_rate_percent_difference.html](https://ledatascifi.github.io/FinTech-Capstone-2023/images/denial_rate_percent_difference.html)
