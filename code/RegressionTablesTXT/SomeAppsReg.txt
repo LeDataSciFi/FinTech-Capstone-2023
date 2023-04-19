@@ -18,5 +18,9 @@ R-squared                                   0.407     0.397     0.409     0.395
 R-squared Adj.                              0.407     0.397     0.409     0.395                   
 No. observations                            18658     18658     18658     18658           
 ==========================================================================================
-Standard errors in parentheses.
-* p<.1, ** p<.05, ***p<.01
+Sample: Tracts where BOW approves at least one loan. The independent variable is a binary
+variable indicating whether BOW received a loan in a tract. High minority equals one in 
+tracts where the minority in that column has an above median population share. In column
+(4), Minority group over median equals one in tracts where less than 50% of the population 
+is white. Standard errors are in parentheses. *, **, and *** indicate statistical
+significance at the 10%, 5%, and 1% levels, respectively.
