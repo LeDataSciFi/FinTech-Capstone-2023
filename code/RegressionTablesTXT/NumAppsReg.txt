@@ -1,0 +1,26 @@
+==========================================================================================
+Minority Group for Column:                  Hispanic   Black     Asian      All
+                                              (1)       (2)       (3)       (4)    
+------------------------------------------------------------------------------------------
+Intercept                                   -3.555*** -3.993*** -4.204*** -3.921***       
+                                            (0.221)   (0.213)   (0.220)   (0.212)         
+BOW                                         -3.304*** -3.201*** -3.355*** -3.259***       
+                                            (0.015)   (0.014)   (0.014)   (0.010)         
+High Minority                               -0.102*** 0.079***  -0.162*** 0.000***        
+                                            (0.015)   (0.014)   (0.015)   (0.000)         
+High Minority:BOW                           0.085***  -0.114*** 0.207***  0.000           
+                                            (0.020)   (0.020)   (0.020)   (0.000)         
+log(1+Median Household Income)              0.680***  0.711***  0.740***  0.708***        
+                                            (0.019)   (0.018)   (0.019)   (0.018)         
+Poverty Ratio                               -0.741*** -0.764*** -0.703*** -0.755***       
+                                            (0.084)   (0.084)   (0.084)   (0.084)         
+R-squared                                   0.857     0.857     0.857     0.856           
+R-squared Adj.                              0.857     0.857     0.857     0.856              
+No. observations                            18658     18658     18658     18658           
+==========================================================================================
+Sample: Tracts where BOW approves at least one loan. The independent variable is the logarithm
+of the number of applications plus one. High minority equals one in tracts where the minority 
+in that column has an above median population share. In column (4), Minority group over median
+equals one in tracts where less than 50% of the population is white. Standard errors are in 
+parentheses. *, **, and *** indicate statistical significance at the 10%, 5%, and 1% levels,
+respectively.

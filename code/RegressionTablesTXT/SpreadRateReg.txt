@@ -1,0 +1,27 @@
+=============================================================================================
+Minority Group for Column:                  Hispanic    Black      Asian        All
+                                              (1)        (2)        (3)         (4)
+---------------------------------------------------------------------------------------------
+Intercept                                   2.666***   3.067***   3.077***   3.115***       
+                                            (0.198)    (0.190)    (0.194)    (0.189)        
+BOW                                         0.205***   0.234***   0.263***   0.241***       
+                                            (0.011)    (0.012)    (0.013)    (0.009)        
+High Minority                               0.028**    0.015      0.014      -0.000***      
+                                            (0.013)    (0.012)    (0.012)    (0.000)        
+High Minority:BOW                           0.088***   0.016      -0.037**   0.000          
+                                            (0.018)    (0.017)    (0.018)    (0.0000)        
+log(1+Median Household Income)              -0.243***  -0.278***  -0.279***  -0.2814***      
+                                            (0.016)    (0.016)    (0.016)    (0.016)        
+Poverty Ratio                               -0.392***  -0.388***  -0.376***  -0.3825***      
+                                            (0.085)    (0.085)    (0.085)    (0.085)        
+Mean Loan-To-Value                          0.006***   0.006***   0.006***   0.006***       
+                                            (0.000)    (0.000)    (0.000)    (0.000)                   
+R-squared                                   0.181      0.175      0.174      0.174          
+R-squared Adj.                              0.180      0.174      0.174      0.174                   
+No. observations                            8433       8433       8433       8433            
+=============================================================================================
+Sample: Tracts where BOW approves at least one loan. The independent variable is approved
+interest rate spread. High minority equals one in tracts where the minority in that column 
+has an above median population share. In column (4), Minority group over median equals one in  
+tracts where less than 50% of the population is white. Standard errors are in parentheses. *, 
+**, and *** indicate statistical significance at the 10%, 5%, and 1% levels, respectively.
