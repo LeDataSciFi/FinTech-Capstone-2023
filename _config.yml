@@ -1,4 +1,12 @@
-theme: minima
+# Disable using the latest Minima release
+#theme: minima
+# And instead pull straight from GitHub via jekyll remote theme
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-remote-theme
 
 minima:
   skin: solarized-light
