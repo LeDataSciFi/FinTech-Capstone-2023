@@ -1,3 +1,5 @@
+# From: https://github.com/jekyll/minima/issues/717#issuecomment-1460912086
+
 # Disable using the latest Minima release
 #theme: minima
 # And instead pull straight from GitHub via jekyll remote theme
