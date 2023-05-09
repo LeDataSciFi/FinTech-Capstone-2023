@@ -1,21 +1,27 @@
 # Analyzing Bank of the West Lending Practices
 
-Authors: ELLIE DEGEORGES, VICTORIA GENCO, ISAAC GRODIN, ANNA HARVEY, JUAN MOZOS NIETO, MATTHEW ROMANO, SEBASTIAN STONEHAM, THOMAS SCARINGELLA, XIAOZHE ZHANG
+_**Lehigh FinTech Capstone 2023**_
+
+_ELLIE DEGEORGES, VICTORIA GENCO, ISAAC GRODIN, ANNA HARVEY, JUAN MOZOS NIETO, MATTHEW ROMANO, SEBASTIAN STONEHAM, THOMAS SCARINGELLA, XIAOZHE ZHANG_
+
+## Key outputs 
+
+1. [The final report is here](https://docs.google.com/document/d/10il6w9Ba1WiDdkzaO7gURanng8vfJzrE1dgXDekf2hc/edit), and we've copied the [executive summary](#executive-summary) below
+1. [Presentation slides are here](https://docs.google.com/presentation/d/1q07KR__ia5sOO5cpTJn0IomlGf4_liDws4V6X8vzo9s/edit#slide=id.geee9c6bb34_0_0)
+1. Interactive maps to see how BOW's lending behavior is related to demographics 
+    - [Loan volume](images/BOW_log(numloans).html)
+    - [Denial rate of BOW minus denial rate of other banks](images/denial_rate_percent_difference.html)
+    - [Denial rate](images/BOW_denial_rate.html)
+    - [Loan dollar volume](images/BOW_log(dol_loans).html)
+    - [Rate spread](images/BOW_mean_approved_rate_spread.html)
 
 ## Project structure
 
-- [Word docs, notes, and many other resources are in the google drive.](https://drive.google.com/drive/u/0/folders/1DPcRaSeDLkYzMvdZ4mGRYJXpyK3mLcln)
-    - [Final report](https://docs.google.com/document/d/10il6w9Ba1WiDdkzaO7gURanng8vfJzrE1dgXDekf2hc/edit)
-    - [Presentation slides](https://docs.google.com/presentation/d/1q07KR__ia5sOO5cpTJn0IomlGf4_liDws4V6X8vzo9s/edit#slide=id.geee9c6bb34_0_0)
+- [The final report, slides, and many other resources are in the google drive.](https://drive.google.com/drive/u/0/folders/1DPcRaSeDLkYzMvdZ4mGRYJXpyK3mLcln)
 - [Code for the project is in a GitHub repo](https://github.com/LeDataSciFi/FinTech-Capstone-2023)
-    - **`images/` contains interactive HTML plots to facilitate visual analysis of how BOW's lending behavior is related to demographics in space**
-        - [Loan volume](images/BOW_log(numloans).html)
-        - [Denial rate of BOW minus denial rate of other banks](images/denial_rate_percent_difference.html)
-        - [Denial rate](images/BOW_denial_rate.html)
-        - [Loan dollar volume](images/BOW_log(dol_loans).html)
-        - [Rate spread](images/BOW_mean_approved_rate_spread.html)
     - `input_data/` contains raw files except for the full HMDA data
     - `input_data_cleaned/` contains files ready for analysis
+    - **`images/` contains interactive HTML plots to facilitate visual analysis of how BOW's lending behavior is related to demographics in space**
     - `code/` contains 
         1. `Setup` downloads the necessary files. There is one manual step.
         1. `Prep_datasets` cleans the raw inputs and reshapes and merges them for use.
