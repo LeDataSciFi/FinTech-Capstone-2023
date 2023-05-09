@@ -2,8 +2,6 @@
 
 _**Lehigh FinTech Capstone 2023**_
 
-_ELLIE DEGEORGES, VICTORIA GENCO, ISAAC GRODIN, ANNA HARVEY, JUAN MOZOS NIETO, MATTHEW ROMANO, SEBASTIAN STONEHAM, THOMAS SCARINGELLA, XIAOZHE ZHANG_
-
 ## Key outputs 
 
 1. [The final report is here](https://docs.google.com/document/d/10il6w9Ba1WiDdkzaO7gURanng8vfJzrE1dgXDekf2hc/edit), and we've copied the [executive summary](#executive-summary) below
@@ -45,3 +43,9 @@ Specifically, this paper analyzes the lending behaviors of Bank of the West (BOW
 - By segmenting the data by major minority groups, we can identify differences in loan practices towards different minority groups and understand the factors contributing to these differences. For example, the higher loan approval rates for Black and Hispanic/Latino groups at Bank of the West may be due to specific outreach programs or underwriting practices designed to support these groups.
 
 - For San Francisco, BOW generally has a lower denial rate for majority-minority tracts than competitors. In Los Angeles, BOW does not receive loan applications in most majority-minority tracts. 
+
+## The team
+
+![image](https://github.com/LeDataSciFi/FinTech-Capstone-2023/assets/50885867/bebcf589-3afb-4577-8b1f-4dff0ab8c11e)
+
+_ELLIE DEGEORGES, VICTORIA GENCO, ISAAC GRODIN, ANNA HARVEY, JUAN MOZOS NIETO, MATTHEW ROMANO, SEBASTIAN STONEHAM, THOMAS SCARINGELLA, XIAOZHE ZHANG_
