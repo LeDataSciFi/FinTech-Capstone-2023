@@ -6,12 +6,12 @@ _**Lehigh FinTech Capstone 2023**_
 
 1. [The final report is here](https://docs.google.com/document/d/10il6w9Ba1WiDdkzaO7gURanng8vfJzrE1dgXDekf2hc/edit), and we've copied the [executive summary](#executive-summary) below
 1. [Presentation slides are here](https://docs.google.com/presentation/d/1kAHAFz4Hy9PZJXZdLUwwEbwBBBjpAQ7Y1hW06HtiEww/edit)
-1. Interactive maps to see how BOW's lending behavior is related to demographics 
-    - [Loan volume](images/BOW_log(numloans).html)
+1. Interactive maps to see how BOW's lending behavior is related to demographics. In these figures, red dots are "majority-minority" Census tracts (i.e. the white population is under 50%) and the shading of a tract corresponds to various lending statistics within that tract.
+    - [BOW's loan volume](images/BOW_log(numloans).html)
     - [Denial rate of BOW minus denial rate of other banks](images/denial_rate_percent_difference.html)
-    - [Denial rate](images/BOW_denial_rate.html)
-    - [Loan dollar volume](images/BOW_log(dol_loans).html)
-    - [Rate spread](images/BOW_mean_approved_rate_spread.html)
+    - [BOW's denial rate](images/BOW_denial_rate.html)
+    - [BOW's loan dollar volume](images/BOW_log(dol_loans).html)
+    - [BOW's rate spread](images/BOW_mean_approved_rate_spread.html)
 
 ## Project structure
 
